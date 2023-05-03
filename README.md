@@ -12,7 +12,7 @@
 ### :woman_technologist: About Me:
 I am currently attending the MIT xPro bootcamp to become a Full Stack Developer <img src = 'https://media.giphy.com/media/TCBJw2ZLdeOg2bDyLh/giphy.gif' width = '35'/>
 - :abacus: I'm now working in accounting, but I'm looking forward to exploring a whole new field.
-- :earth_americas: In my free time, I like traveling when I can and would like to one day become a digital nomad.
+- :earth_americas: In my free time I like traveling, when I can, and would like to one day become a digital nomad.
 - :video_game: I also love a good building or God simulator style video game now and then.
 - :mailbox: I can be reached by email at <reesec87@gmail.com>
 
